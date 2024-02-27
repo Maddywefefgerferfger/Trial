@@ -1,1 +1,1 @@
-[Coder GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Coder GIF](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
