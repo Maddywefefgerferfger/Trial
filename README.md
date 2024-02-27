@@ -1,1 +1,1 @@
-<img height=“50” width=“50” src="https://img.icons8.com/color/48/000000/javascript.png“/><img height=“50” width=“50”
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/madhavan_resear1) ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-{{solved_count}}-blue) ![Coder GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
