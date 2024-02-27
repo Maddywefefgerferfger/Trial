@@ -1,1 +1,1 @@
-![Coder GIF](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
+![Data Science Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
