@@ -17,7 +17,10 @@ My journey into ML and DL began with a fascination for artificial intelligence (
 
 ## Skills
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  ![Statistics](https://img.shields.io/badge/-Statistics-black?style=flat-square&logo=statistics)  ![ML](https://img.shields.io/badge/-ML-black?style=flat-square&logo=python) ![DL](https://img.shields.io/badge/-DL-black?style=flat-square&logo=python)   ![PowerBI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoWidth=40&logoHeight=40) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoWidth=40&logoHeight=40) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoWidth=40&logoHeight=40) ![Statistics](https://img.shields.io/badge/-Statistics-black?style=flat-square&logo=statistics&logoWidth=40&logoHeight=40) ![ML](https://img.shields.io/badge/-ML-black?style=flat-square&logo=python&logoWidth=40&logoHeight=40) ![DL](https://img.shields.io/badge/-DL-black?style=flat-square&logo=python&logoWidth=40&logoHeight=40) ![PowerBI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi&logoWidth=40&logoHeight=40) ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau&logoWidth=40&logoHeight=40)
+
+
+
 
 
 ## Stats
