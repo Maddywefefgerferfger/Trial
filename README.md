@@ -6,7 +6,8 @@ About Me!
 Software Engineer @Saama Technologies
 I finished my B.SC [Computer Science] from KG College of Arts and Science, Tamil Nadu.I have 2 years of experience in IT and services. I'm currently passionate about exploring LLMs (Large Language Models).my interest grew in Machine Learning (ML) and Deep Learning (DL). I've always had a keen interest in AI , I noticed that Data Science combines both Machine Learning , Deep Learning. This realization prompted me to pursue a 6-month Data Science course.I found the subject fascinating and continued to expand my knowledge.
 
-![Data Science Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Coding Focus GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJhaXJuZXl2bzc3cGp3b3JkN3N5OTV6cXY3ZjlqNjgzb2d2Y21keSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92cu6TfCZDVRBkmmDu/giphy.gif)
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavan-bd-b2a826244)
 
